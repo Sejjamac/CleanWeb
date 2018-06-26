@@ -1,0 +1,297 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skgtec.dx.am" resolutions="1x" timestamp="1530025655843">
+  <folder name="css">
+    <file name="site_global.css" crc="4161165897"/>
+    <file name="downloads.css" crc="3886662255" ref="downloads"/>
+    <file name="timeshatter.css" crc="3992275175" ref="timeshatter"/>
+    <file name="updates.css" crc="4096038653" ref="updates"/>
+    <file name="nomq_updates.css" crc="3824530138" ref="updates"/>
+    <file name="s-live.css" crc="450468601" ref="s-live"/>
+    <file name="diego-revilla.css" crc="4188637556" ref="diego-revilla"/>
+    <file name="nomq_diego-revilla.css" crc="297645028" ref="diego-revilla"/>
+    <file name="launcher.css" crc="384359382" ref="launcher"/>
+    <file name="index.css" crc="4265163830" ref="index"/>
+    <file name="nomq_index.css" crc="3992324337" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="video.mp4" crc="4029419081" seo="true" mt="1530022446000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="museutils.js" crc="3803043152" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="whatinput.js" crc="86476730" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="museconfig.js" crc="380897831" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="webpro.js" crc="242022427" ref="diego-revilla:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="diego-revilla:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="diego-revilla:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="diego-revilla:index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="diego-revilla:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="form_check.php" crc="147359589" ref="diego-revilla"/>
+    <file name="form_throttle.php" crc="93986428" ref="diego-revilla"/>
+    <file name="form_process.php" crc="3851993751" ref="diego-revilla"/>
+    <file name="form-u6526.php" crc="78521346" ref="diego-revilla"/>
+    <file name="jquery.watch.js" crc="99325471" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="diego-revilla:index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="diego-revilla"/>
+    <file name="html5shiv.js" crc="4241844378" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="diego-revilla:index"/>
+    <file name="require.js" crc="4157109226" ref="diego-revilla:timeshatter:s-live:launcher:downloads:updates:index"/>
+    <file name="form-u10810.php" crc="78521346" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3936593618" ref="diego-revilla"/>
+    <file name="menubackground3.jpg" crc="488851479" seo="true" ref="diego-revilla:index">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="diego-revilla:index"/>
+    <file name="lava arena.jpg" crc="4206123495" seo="true" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="s-l.png" crc="4199729390" seo="true" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="diego-revilla"/>
+    <file name="logo web white.png" crc="4192965084" seo="true" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="kawaii circle.jpg" crc="87320558" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="code.jpg" crc="286327253" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="grafico.png" crc="412497843" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="web.png" crc="329871790" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="app.png" crc="484025998" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="background 4-u3590-fr.png" crc="57008285" ref="diego-revilla"/>
+    <file name="background 5-u3591-fr.png" crc="499658520" ref="diego-revilla"/>
+    <file name="backgroud 5-u3588-fr.png" crc="266940340" ref="diego-revilla"/>
+    <file name="neon arena-u3587-fr.png" crc="4206375812" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3589-fr.jpg" crc="215576981" ref="diego-revilla"/>
+    <file name="background 4.png" crc="280840928" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="background 5.png" crc="70963319" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="backgroud 5.png" crc="432271133" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="neon arena.png" crc="473614599" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-11 at 152932.jpg" crc="166403909" ref="diego-revilla">
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="enviar.png" crc="467490410" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="background 5-u3591-fr2.png" crc="4265658505" ref="diego-revilla"/>
+    <file name="backgroud 5-u3588-fr2.png" crc="3967835466" ref="diego-revilla"/>
+    <file name="neon arena-u3587-fr2.png" crc="250161555" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3589-fr2.jpg" crc="4230558230" ref="diego-revilla"/>
+    <file name="background 5-u3591-fr3.png" crc="3997824255" ref="diego-revilla"/>
+    <file name="backgroud 5-u3588-fr3.png" crc="418196426" ref="diego-revilla"/>
+    <file name="neon arena-u3587-fr3.png" crc="111297226" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3589-fr3.jpg" crc="129449779" ref="diego-revilla"/>
+    <file name="background 4-u3594-fr.png" crc="3805433869" ref="diego-revilla"/>
+    <file name="background 5-u3593-fr.png" crc="186233930" ref="diego-revilla"/>
+    <file name="backgroud 5-u3595-fr.png" crc="62845505" ref="diego-revilla"/>
+    <file name="neon arena-u3597-fr.png" crc="3769989651" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3596-fr.jpg" crc="407285991" ref="diego-revilla"/>
+    <file name="menu.png" crc="3935061649" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="cerrado2.png" crc="473227605" ref="diego-revilla:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+      <caption webpage="diego-revilla" alt=""/>
+    </file>
+    <file name="background 4-u3590-fr2.png" crc="4276987940" ref="diego-revilla"/>
+    <file name="background 5-u3591-fr4.png" crc="3925184192" ref="diego-revilla"/>
+    <file name="backgroud 5-u3588-fr4.png" crc="498694448" ref="diego-revilla"/>
+    <file name="neon arena-u3587-fr4.png" crc="4278350113" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3589-fr4.jpg" crc="315979038" ref="diego-revilla"/>
+    <file name="background 4-u3594-fr2.png" crc="536422292" ref="diego-revilla"/>
+    <file name="background 5-u3593-fr2.png" crc="4178427647" ref="diego-revilla"/>
+    <file name="backgroud 5-u3595-fr2.png" crc="440527922" ref="diego-revilla"/>
+    <file name="neon arena-u3597-fr2.png" crc="202985559" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3596-fr2.jpg" crc="462699545" ref="diego-revilla"/>
+    <file name="neon arena-u3587-fr5.png" crc="214830102" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3589-fr5.jpg" crc="4095322273" ref="diego-revilla"/>
+    <file name="background 4-u3594-fr3.png" crc="4280742363" ref="diego-revilla"/>
+    <file name="background 5-u3593-fr3.png" crc="138733649" ref="diego-revilla"/>
+    <file name="backgroud 5-u3595-fr3.png" crc="4246081463" ref="diego-revilla"/>
+    <file name="neon arena-u3597-fr3.png" crc="154283292" ref="diego-revilla"/>
+    <file name="screen shot 2017-12-11 at 152932-u3596-fr3.jpg" crc="3996629064" ref="diego-revilla"/>
+    <file name="web2.png" crc="329871790" ref="timeshatter:s-live:launcher:downloads:updates">
+      <caption webpage="timeshatter" alt=""/>
+    </file>
+    <file name="hqdefault-1-u14292-fr.png" crc="3896669302" ref="index"/>
+    <file name="menubackground3-u14293-fr.jpg" crc="251271991" ref="index"/>
+    <file name="02proyecto-tipografia.jpg" crc="348917865" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03proyecto-triptico.jpg" crc="3966878945" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coding-u14752-fr.png" crc="351484306" ref="index"/>
+    <file name="hqdefault-1-u14292-fr2.png" crc="67166035" ref="index"/>
+    <file name="menubackground3-u14293-fr2.jpg" crc="3875602130" ref="index"/>
+    <file name="hqdefault-1-u14292-fr3.png" crc="510128417" ref="index"/>
+    <file name="menubackground3-u14293-fr3.jpg" crc="4070775774" ref="index"/>
+    <file name="02proyecto-tipografia-u14301-fr.jpg" crc="4150853449" ref="index"/>
+    <file name="03proyecto-triptico-u14302-fr.jpg" crc="69261380" ref="index"/>
+    <file name="hqdefault-1-u14292-fr4.png" crc="343650457" ref="index"/>
+    <file name="menubackground3-u14293-fr4.jpg" crc="3910555826" ref="index"/>
+    <file name="02proyecto-tipografia-u14301-fr2.jpg" crc="4046847793" ref="index"/>
+    <file name="03proyecto-triptico-u14302-fr2.jpg" crc="353936441" ref="index"/>
+    <file name="02proyecto-tipografia-u14301-fr3.jpg" crc="1828275" ref="index"/>
+    <file name="03proyecto-triptico-u14302-fr3.jpg" crc="430404965" ref="index"/>
+  </folder>
+  <file name="diego-revilla.html" crc="3768292716" seo="true" mt="1529519595599" redirect="true"/>
+  <file name="timeshatter.html" crc="265753507" seo="true" mt="1530012744973" redirect="true"/>
+  <file name="s-live.html" crc="188558592" seo="true" mt="1530012755460" redirect="true"/>
+  <file name="launcher.html" crc="52558826" seo="true" mt="1530012763736" redirect="true"/>
+  <file name="downloads.html" crc="4056409499" seo="true" mt="1530012751340" redirect="true"/>
+  <file name="updates.html" crc="3806471065" seo="true" mt="1530012775330" redirect="true"/>
+  <file name="index.html" crc="3974037676" seo="true" mt="1530025618246" redirect="true"/>
+</manifest>
