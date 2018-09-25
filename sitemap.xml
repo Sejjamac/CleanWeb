@@ -1,65 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://skgtec.dx.am/index.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <loc>http://skgtec.ml/index.html</loc>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://skgtec.dx.am/images/logo%20web%20white.png</image:loc>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/highresscreenshot00002-crop-u29084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/highresscreenshot00002-crop-u290842.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/highresscreenshot00002-crop-u290843.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://skgtec.dx.am/diego-revilla.html</loc>
-    <lastmod>2018-06-20</lastmod>
+    <loc>http://skgtec.ml/krew-engine-download.html</loc>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://skgtec.dx.am/images/menubackground3.jpg</image:loc>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://skgtec.dx.am/images/lava%20arena.jpg</image:loc>
+      <image:loc>http://skgtec.ml/images/pixelated2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://skgtec.dx.am/images/s-l.png</image:loc>
+      <image:loc>http://skgtec.ml/images/krewengine.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://skgtec.dx.am/images/logo%20web%20white.png</image:loc>
+      <image:loc>http://skgtec.ml/images/xcode-icon.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://skgtec.dx.am/timeshatter.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <loc>http://skgtec.ml/foxy-rush.html</loc>
+    <lastmod>2018-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/pixelated2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/krew-engine.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/krewengine.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/downloads.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/updates.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/foxyrushabout.html</loc>
+    <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skgtec.dx.am/s-live.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <loc>http://skgtec.ml/timeshatter.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/fade-left.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/windows_logo_-_2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/apple-mac-logo-icon-300x300.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/linux-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/nintendo-switch-logo-38d4f5c7e7-seeklogocom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/768px-xbox_one_logosvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/1280px-playstation_logo_coloursvg.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/foxy-rush-download.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/windows_logo_-_2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/02e44c9e0f40b8b.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/timeshatter-download.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20ts%20white296x198.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/timeshatterabout.html</loc>
+    <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skgtec.dx.am/launcher.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <loc>http://skgtec.ml/krewengine,-about.html</loc>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/apple-mac-logo-icon-300x300.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/code.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/kawaii%20circle.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/250px-html5_logo_and_wordmarksvg.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://skgtec.dx.am/downloads.html</loc>
-    <lastmod>2018-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://skgtec.dx.am/updates.html</loc>
-    <lastmod>2018-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://skgtec.dx.am/assets/video.mp4</loc>
-    <lastmod>2018-06-26</lastmod>
+    <loc>http://skgtec.ml/assets/krew-engine-1.0.zip</loc>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
