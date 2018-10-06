@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://skgtec.ml/index.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,8 +19,47 @@
     </image:image>
   </url>
   <url>
+    <loc>http://skgtec.ml/foxy-rush.html</loc>
+    <lastmod>2018-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/pixelated2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/krew-engine.html</loc>
+    <lastmod>2018-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/krewengine.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/downloads.html</loc>
+    <lastmod>2018-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/updates.html</loc>
+    <lastmod>2018-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://skgtec.ml/krew-engine-download.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,53 +76,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://skgtec.ml/foxy-rush.html</loc>
-    <lastmod>2018-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skgtec.ml/images/pixelated2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skgtec.ml/krew-engine.html</loc>
-    <lastmod>2018-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skgtec.ml/images/krewengine.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skgtec.ml/downloads.html</loc>
-    <lastmod>2018-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skgtec.ml/updates.html</loc>
-    <lastmod>2018-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skgtec.ml/images/logo%20web%20white.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skgtec.ml/foxyrushabout.html</loc>
-    <lastmod>2018-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://skgtec.ml/timeshatter.html</loc>
-    <lastmod>2018-09-16</lastmod>
+    <lastmod>2018-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -113,7 +107,7 @@
   </url>
   <url>
     <loc>http://skgtec.ml/foxy-rush-download.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -124,8 +118,20 @@
     </image:image>
   </url>
   <url>
+    <loc>http://skgtec.ml/foxyrushabout.html</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://skgtec.ml/timeshatterabout.html</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://skgtec.ml/timeshatter-download.html</loc>
-    <lastmod>2018-09-16</lastmod>
+    <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -136,14 +142,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://skgtec.ml/timeshatterabout.html</loc>
-    <lastmod>2018-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://skgtec.ml/krewengine,-about.html</loc>
-    <lastmod>2018-09-16</lastmod>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,14 +158,5 @@
     <image:image>
       <image:loc>http://skgtec.ml/images/kawaii%20circle.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://skgtec.ml/images/250px-html5_logo_and_wordmarksvg.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skgtec.ml/assets/krew-engine-1.0.zip</loc>
-    <lastmod>2018-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

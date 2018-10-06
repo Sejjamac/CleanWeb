@@ -1,27 +1,27 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skgtec.ml" resolutions="1x" timestamp="1537866011839">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skgtec.ml" resolutions="1x" timestamp="1538816108300">
   <folder name="css">
-    <file name="site_global.css" crc="4161165897"/>
-    <file name="master_maintenance.css" crc="3953553483" ref="foxyrushabout:krew-engine:timeshatterabout"/>
-    <file name="nomq_preview_master_maintenance.css" crc="3784212794" ref="foxyrushabout:krew-engine:timeshatterabout"/>
-    <file name="timeshatter.css" crc="3906521454" ref="timeshatter"/>
-    <file name="timeshatter-download.css" crc="3959059393" ref="timeshatter-download"/>
-    <file name="foxy-rush-download.css" crc="300106357" ref="foxy-rush-download"/>
-    <file name="foxy-rush.css" crc="4180192881" ref="foxy-rush"/>
-    <file name="nomq_foxy-rush.css" crc="3824530138" ref="foxy-rush"/>
-    <file name="krewengine_-about.css" crc="4148700113" ref="krewengine,-about"/>
-    <file name="foxyrushabout.css" crc="401184879" ref="foxyrushabout"/>
-    <file name="index.css" crc="3807462271" ref="index"/>
-    <file name="nomq_index.css" crc="3838935359" ref="index"/>
-    <file name="krew-engine.css" crc="331502930" ref="krew-engine"/>
-    <file name="nomq_krew-engine.css" crc="480974613" ref="krew-engine"/>
-    <file name="updates.css" crc="4065762364" ref="updates"/>
-    <file name="nomq_updates.css" crc="3998022392" ref="updates"/>
+    <file name="site_global.css" crc="264434764"/>
+    <file name="master_maintenance.css" crc="124390221" ref="timeshatterabout:krew-engine:foxyrushabout"/>
+    <file name="nomq_preview_master_maintenance.css" crc="3784212794" ref="timeshatterabout:krew-engine:foxyrushabout"/>
     <file name="timeshatterabout.css" crc="401184879" ref="timeshatterabout"/>
-    <file name="krew-engine-download.css" crc="102066824" ref="krew-engine-download"/>
-    <file name="downloads.css" crc="4215762193" ref="downloads"/>
-  </folder>
-  <folder name="assets">
-    <file name="krew-engine-1.0.zip" crc="513961901" seo="true" mt="1537708082000"/>
+    <file name="nomq_timeshatterabout.css" crc="3824530138" ref="timeshatterabout"/>
+    <file name="krew-engine.css" crc="280045292" ref="krew-engine"/>
+    <file name="nomq_krew-engine.css" crc="54880048" ref="krew-engine"/>
+    <file name="index.css" crc="4140700385" ref="index"/>
+    <file name="nomq_index.css" crc="3917472875" ref="index"/>
+    <file name="foxyrushabout.css" crc="401184879" ref="foxyrushabout"/>
+    <file name="timeshatter-download.css" crc="3778235041" ref="timeshatter-download"/>
+    <file name="foxy-rush.css" crc="3788264957" ref="foxy-rush"/>
+    <file name="nomq_foxy-rush.css" crc="3770605506" ref="foxy-rush"/>
+    <file name="updates.css" crc="63952875" ref="updates"/>
+    <file name="nomq_updates.css" crc="3913349542" ref="updates"/>
+    <file name="krewengine_-about.css" crc="217184027" ref="krewengine,-about"/>
+    <file name="nomq_krewengine_-about.css" crc="4270182828" ref="krewengine,-about"/>
+    <file name="foxy-rush-download.css" crc="300106357" ref="foxy-rush-download"/>
+    <file name="timeshatter.css" crc="3918250075" ref="timeshatter"/>
+    <file name="downloads.css" crc="3908248730" ref="downloads"/>
+    <file name="nomq_downloads.css" crc="299136828" ref="downloads"/>
+    <file name="krew-engine-download.css" crc="374891699" ref="krew-engine-download"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="timeshatter:foxy-rush:krew-engine:downloads:updates:index:krew-engine-download:foxy-rush-download:foxyrushabout:timeshatterabout:timeshatter-download:krewengine,-about"/>
@@ -33,38 +33,44 @@
     <file name="jquery.watch.js" crc="99325471" ref="timeshatter:foxy-rush:krew-engine:downloads:updates:index:krew-engine-download:foxy-rush-download:foxyrushabout:timeshatterabout:timeshatter-download:krewengine,-about"/>
     <file name="html5shiv.js" crc="4241844378" ref="timeshatter:foxy-rush:krew-engine:downloads:updates:index:krew-engine-download:foxy-rush-download:foxyrushabout:timeshatterabout:timeshatter-download:krewengine,-about"/>
     <file name="require.js" crc="4157109226" ref="timeshatter:foxy-rush:krew-engine:downloads:updates:index:krew-engine-download:foxy-rush-download:foxyrushabout:timeshatterabout:timeshatter-download:krewengine,-about"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="foxy-rush:krew-engine:downloads:updates:index:krewengine,-about"/>
     <file name="webpro.js" crc="242022427" ref="krew-engine:updates:index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="krew-engine:updates"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="krew-engine"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="krew-engine:updates:index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="updates"/>
+    <file name="form_throttle.php" crc="93986428" ref="updates"/>
+    <file name="form_process.php" crc="3851993751" ref="updates"/>
+    <file name="form-u44589.php" crc="3772165264" ref="updates"/>
     <file name="form-u10810.php" crc="78521346" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3936593618" ref="timeshatter"/>
-    <file name="blank.gif" crc="4208392903" ref="timeshatter:krew-engine:downloads:updates:index:krewengine,-about"/>
+    <file name="blank.gif" crc="4208392903" ref="timeshatter:foxy-rush:krew-engine:downloads:updates:index:krewengine,-about"/>
     <file name="logo web white.png" crc="4192965084" seo="true" ref="timeshatter:krew-engine:downloads:updates:index:krew-engine-download:timeshatter-download:krewengine,-about">
       <caption webpage="timeshatter" alt=""/>
       <caption webpage="timeshatter" alt=""/>
       <caption webpage="krew-engine-download" alt=""/>
-      <caption webpage="krewengine,-about" alt=""/>
       <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="krewengine,-about" alt=""/>
+      <caption webpage="krewengine,-about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
       <caption webpage="timeshatter-download" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="updates" alt=""/>
       <caption webpage="updates" alt=""/>
       <caption webpage="updates" alt=""/>
       <caption webpage="updates" alt=""/>
       <caption webpage="updates" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="updates" alt=""/>
+      <caption webpage="updates" alt=""/>
     </file>
     <file name="highresscreenshot00001.png" crc="4142027634" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
@@ -76,35 +82,37 @@
     <file name="fade-left.png" crc="290258182" seo="true" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
     </file>
-    <file name="u34804-4.png" crc="310521162" ref="timeshatter"/>
-    <file name="u34808-4.png" crc="4109931267" ref="timeshatter"/>
-    <file name="u34825-4.png" crc="125459293" ref="timeshatter"/>
-    <file name="backgroud 5.png" crc="3884341707" ref="timeshatter">
+    <file name="u34804-4.png" crc="219181099" ref="timeshatter"/>
+    <file name="u34808-4.png" crc="4123604882" ref="timeshatter"/>
+    <file name="u34825-4.png" crc="3972940545" ref="timeshatter"/>
+    <file name="backgroud 5.png" crc="4281513246" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
     </file>
-    <file name="lava arena.jpg" crc="3923627928" ref="timeshatter">
+    <file name="lava arena.png" crc="31315291" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
     </file>
     <file name="background8.jpg" crc="149892355" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
     </file>
-    <file name="background 6.jpg" crc="361469816" ref="timeshatter">
+    <file name="background 6.png" crc="4126574802" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
     </file>
-    <file name="u34842-4.png" crc="474356247" ref="timeshatter"/>
-    <file name="u34847-4.png" crc="115380815" ref="timeshatter"/>
-    <file name="u34892-4.png" crc="284083770" ref="timeshatter"/>
+    <file name="u34842-4.png" crc="3911813879" ref="timeshatter"/>
+    <file name="u34847-4.png" crc="4112743708" ref="timeshatter"/>
+    <file name="u34892-4.png" crc="4033580563" ref="timeshatter"/>
     <file name="menubackground3.jpg" crc="488851479" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
     </file>
     <file name="windows_logo_-_2012.png" crc="454481042" seo="true" ref="timeshatter:foxy-rush-download">
-      <caption webpage="timeshatter" alt=""/>
       <caption webpage="foxy-rush-download" alt=""/>
+      <caption webpage="timeshatter" alt=""/>
     </file>
     <file name="apple-mac-logo-icon-300x300.png" crc="4037345954" seo="true" ref="timeshatter:krewengine,-about">
+      <caption webpage="krewengine,-about" alt=""/>
+      <caption webpage="krewengine,-about" alt=""/>
+      <caption webpage="krewengine,-about" alt=""/>
+      <caption webpage="krewengine,-about" alt=""/>
       <caption webpage="timeshatter" alt=""/>
-      <caption webpage="krewengine,-about" alt=""/>
-      <caption webpage="krewengine,-about" alt=""/>
     </file>
     <file name="linux-logo.png" crc="4290853318" seo="true" ref="timeshatter">
       <caption webpage="timeshatter" alt=""/>
@@ -119,25 +127,27 @@
       <caption webpage="timeshatter" alt=""/>
     </file>
     <file name="pixelated2.jpg" crc="420028699" seo="true" ref="foxy-rush:krew-engine-download:foxy-rush-download">
-      <caption webpage="krew-engine-download" alt=""/>
       <caption webpage="foxy-rush" alt=""/>
+      <caption webpage="krew-engine-download" alt=""/>
     </file>
-    <file name="u26701-4.png" crc="38384452" ref="foxy-rush"/>
-    <file name="u34077-4.png" crc="4277913056" ref="foxy-rush"/>
-    <file name="u26705-4.png" crc="3803670818" ref="foxy-rush"/>
-    <file name="u34073-4.png" crc="3977923331" ref="foxy-rush"/>
+    <file name="u26701-4.png" crc="509798823" ref="foxy-rush"/>
+    <file name="u34077-4.png" crc="490632020" ref="foxy-rush"/>
+    <file name="u26705-4.png" crc="3783210345" ref="foxy-rush"/>
+    <file name="u34073-4.png" crc="4082343299" ref="foxy-rush"/>
+    <file name="u26701-42.png" crc="509798823" ref="foxy-rush"/>
+    <file name="u34077-42.png" crc="490632020" ref="foxy-rush"/>
+    <file name="u26705-42.png" crc="3783210345" ref="foxy-rush"/>
+    <file name="u34073-42.png" crc="4082343299" ref="foxy-rush"/>
     <file name="web.png" crc="329871790" ref="krew-engine:foxyrushabout">
       <caption webpage="krew-engine" alt=""/>
     </file>
     <file name="coding.jpg" crc="4137236164" ref="krew-engine:downloads:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="krew-engine" alt=""/>
       <caption webpage="downloads" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stop_the_light_by_mato_rachela.jpg" crc="225261891" ref="krew-engine">
-      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="downloads" alt=""/>
     </file>
     <file name="screen shot 2018-07-11 at 222216.jpg" crc="3839873119" ref="krew-engine">
       <caption webpage="krew-engine" alt=""/>
@@ -145,40 +155,46 @@
       <caption webpage="krew-engine" alt=""/>
       <caption webpage="krew-engine" alt=""/>
       <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+    </file>
+    <file name="stop_the_light_by_mato_rachela.jpg" crc="519731751" ref="krew-engine">
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
     </file>
     <file name="krewengine.png" crc="83424140" seo="true" ref="krew-engine:krew-engine-download">
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
-      <caption webpage="krew-engine" alt=""/>
       <caption webpage="krew-engine-download" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
+      <caption webpage="krew-engine" alt=""/>
     </file>
-    <file name="stop_the_light_by_mato_rachela-u25181-fr.jpg" crc="4127926124" ref="krew-engine"/>
-    <file name="stop_the_light_by_mato_rachela-u25181-fr2.jpg" crc="159112966" ref="krew-engine"/>
+    <file name="stop_the_light_by_mato_rachela-u25181-fr.jpg" crc="531577847" ref="krew-engine"/>
+    <file name="stop_the_light_by_mato_rachela-u25181-fr2.jpg" crc="3865293853" ref="krew-engine"/>
     <file name="coding-u24249-fr.jpg" crc="38922024" ref="krew-engine"/>
-    <file name="stop_the_light_by_mato_rachela-u25181-fr3.jpg" crc="502763492" ref="krew-engine"/>
-    <file name="stop_the_light_by_mato_rachela-u25181-fr4.jpg" crc="3939639214" ref="krew-engine"/>
+    <file name="stop_the_light_by_mato_rachela-u25181-fr3.jpg" crc="3838644312" ref="krew-engine"/>
+    <file name="stop_the_light_by_mato_rachela-u25181-fr4.jpg" crc="352261348" ref="krew-engine"/>
     <file name="coding-u24249-fr2.jpg" crc="4272510522" ref="krew-engine"/>
     <file name="menu.png" crc="3935061649" ref="krew-engine:updates">
+      <caption webpage="updates" alt=""/>
+      <caption webpage="updates" alt=""/>
+      <caption webpage="updates" alt=""/>
+      <caption webpage="updates" alt=""/>
       <caption webpage="krew-engine" alt=""/>
       <caption webpage="krew-engine" alt=""/>
-      <caption webpage="updates" alt=""/>
-      <caption webpage="updates" alt=""/>
-      <caption webpage="updates" alt=""/>
-      <caption webpage="updates" alt=""/>
     </file>
     <file name="cerrado.png" crc="473227605" ref="krew-engine:updates">
+      <caption webpage="updates" alt=""/>
+      <caption webpage="updates" alt=""/>
       <caption webpage="krew-engine" alt=""/>
-      <caption webpage="updates" alt=""/>
-      <caption webpage="updates" alt=""/>
     </file>
     <file name="highresscreenshot00001-u35914-fr.png" crc="442851169" ref="downloads:index"/>
     <file name="pixelated2-u35915-fr.jpg" crc="4169477898" ref="downloads:index"/>
     <file name="highresscreenshot00002-crop-u29084.jpg" crc="411643493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u29808-4.png" crc="4215914590" ref="index"/>
+    <file name="u29808-4.png" crc="4201288966" ref="index"/>
     <file name="enviar.png" crc="467490410" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -193,11 +209,11 @@
     <file name="highresscreenshot00002-crop-u290842.jpg" crc="4030597934" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u29808-42.png" crc="4215914590" ref="index"/>
+    <file name="u29808-42.png" crc="4201288966" ref="index"/>
     <file name="highresscreenshot00002-crop-u290843.jpg" crc="4156551766" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u29808-43.png" crc="4215914590" ref="index"/>
+    <file name="u29808-43.png" crc="4201288966" ref="index"/>
     <file name="xcode-icon.png" crc="12381489" seo="true" ref="krew-engine-download">
       <caption webpage="krew-engine-download" alt=""/>
     </file>
@@ -207,11 +223,11 @@
       <caption webpage="foxy-rush-download" alt=""/>
       <caption webpage="foxy-rush-download" alt=""/>
     </file>
-    <file name="u36422-4.png" crc="38384452" ref="foxy-rush-download"/>
-    <file name="u36427-4.png" crc="4277913056" ref="foxy-rush-download"/>
-    <file name="u36423-4.png" crc="526122110" ref="foxy-rush-download"/>
-    <file name="u36455-4.png" crc="3761763280" ref="foxy-rush-download"/>
-    <file name="u36426-4.png" crc="3977923331" ref="foxy-rush-download"/>
+    <file name="u36422-4.png" crc="509798823" ref="foxy-rush-download"/>
+    <file name="u36427-4.png" crc="490632020" ref="foxy-rush-download"/>
+    <file name="u36423-4.png" crc="4105572096" ref="foxy-rush-download"/>
+    <file name="u36455-4.png" crc="63308414" ref="foxy-rush-download"/>
+    <file name="u36426-4.png" crc="4082343299" ref="foxy-rush-download"/>
     <file name="background 4.jpg" crc="3826724964" ref="timeshatter-download">
       <caption webpage="timeshatter-download" alt=""/>
     </file>
@@ -220,24 +236,23 @@
     </file>
     <file name="code.jpg" crc="159718658" seo="true" ref="krewengine,-about">
       <caption webpage="krewengine,-about" alt=""/>
+      <caption webpage="krewengine,-about" alt=""/>
     </file>
     <file name="kawaii circle.jpg" crc="20678617" seo="true" ref="krewengine,-about">
       <caption webpage="krewengine,-about" alt=""/>
-    </file>
-    <file name="250px-html5_logo_and_wordmarksvg.png" crc="33194577" seo="true" ref="krewengine,-about">
       <caption webpage="krewengine,-about" alt=""/>
     </file>
   </folder>
-  <file name="timeshatter.html" crc="1514071" seo="true" mt="1537093575992" redirect="true"/>
-  <file name="foxy-rush.html" crc="473590773" seo="true" mt="1536934744178" redirect="true"/>
-  <file name="krew-engine.html" crc="508510735" seo="true" mt="1537122611367" redirect="true"/>
-  <file name="downloads.html" crc="3822815648" seo="true" mt="1537093185787" redirect="true"/>
-  <file name="updates.html" crc="3959294531" seo="true" mt="1537009743583" redirect="true"/>
-  <file name="index.html" crc="3759288355" seo="true" mt="1537705878503" redirect="true"/>
-  <file name="krew-engine-download.html" crc="308923956" seo="true" mt="1537709325915" redirect="true"/>
-  <file name="foxy-rush-download.html" crc="140943228" seo="true" mt="1537020699343" redirect="true"/>
-  <file name="foxyrushabout.html" crc="3838232624" seo="true" mt="1536938026553" redirect="true"/>
-  <file name="timeshatterabout.html" crc="3777312694" seo="true" mt="1536938035095" redirect="true"/>
-  <file name="timeshatter-download.html" crc="81167575" seo="true" mt="1537094056822" redirect="true"/>
-  <file name="krewengine,-about.html" crc="490376893" seo="true" mt="1537124727673" redirect="true"/>
+  <file name="timeshatter.html" crc="294864777" seo="true" mt="1538224353271" redirect="true"/>
+  <file name="foxy-rush.html" crc="490459568" seo="true" mt="1538125513729" redirect="true"/>
+  <file name="krew-engine.html" crc="484513593" seo="true" mt="1538154425853" redirect="true"/>
+  <file name="downloads.html" crc="3995255057" seo="true" mt="1538307017373" redirect="true"/>
+  <file name="updates.html" crc="40679356" seo="true" mt="1538057584519" redirect="true"/>
+  <file name="index.html" crc="4012023925" seo="true" mt="1538071127994" redirect="true"/>
+  <file name="krew-engine-download.html" crc="4170424826" seo="true" mt="1538503212766" redirect="true"/>
+  <file name="foxy-rush-download.html" crc="4078123636" seo="true" mt="1537993685154" redirect="true"/>
+  <file name="foxyrushabout.html" crc="182177558" seo="true" mt="1537993644885" redirect="true"/>
+  <file name="timeshatterabout.html" crc="339847214" seo="true" mt="1537993668780" redirect="true"/>
+  <file name="timeshatter-download.html" crc="371007636" seo="true" mt="1537988154332" redirect="true"/>
+  <file name="krewengine,-about.html" crc="4068823948" seo="true" mt="1538155153170" redirect="true"/>
 </manifest>
